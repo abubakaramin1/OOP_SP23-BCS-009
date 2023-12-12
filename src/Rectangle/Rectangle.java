@@ -1,3 +1,4 @@
+package Rectangle;
 
 public class Rectangle {
     private double length;
@@ -54,9 +55,9 @@ public class Rectangle {
 
     public static void comparison(Rectangle r1, Rectangle r2) {
         if (r1.area() > r2.area()) {
-            System.out.println("Rectangle 1 is greater than Rectangle 2");
+            System.out.println("Rectangle.Rectangle 1 is greater than Rectangle.Rectangle 2");
         } else {
-            System.out.println("Rectangle 2 is greater than Rectangle 1");
+            System.out.println("Rectangle.Rectangle 2 is greater than Rectangle.Rectangle 1");
         }
 
     }

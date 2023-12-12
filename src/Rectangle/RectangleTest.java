@@ -1,4 +1,8 @@
- class RectangleTest {
+package Rectangle;
+
+import Rectangle.Rectangle;
+
+class RectangleTest {
     public static void main(String[] args) {
         Rectangle r1 = new Rectangle(15.5, 20.5, 5.0, 8.0);
         System.out.println(r1.getLength());

@@ -1,4 +1,7 @@
-import java.util.Arrays;
+package Cards_Game;
+
+import Cards_Game.Cards;
+
 import java.util.Random;
 
 public class Deck {

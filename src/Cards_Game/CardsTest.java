@@ -1,3 +1,5 @@
+package Cards_Game;
+
 public class CardsTest {
     public static void main(String[] args) {
 
@@ -8,7 +10,7 @@ public class CardsTest {
         System.out.println(d1.shuffle());
         System.out.println(d1);
         g1.distribution(d1);
-        System.out.println("Cards of player 1");
+        System.out.println("Cards_Game.Cards of player 1");
         System.out.println(g1);
     }
 }

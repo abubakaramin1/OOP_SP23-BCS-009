@@ -1,4 +1,5 @@
-import java.util.Date;
+package Music;
+
 import java.util.Objects;
 
 public class Music {
@@ -57,7 +58,7 @@ public class Music {
     }
 
     public String toString() {
-        return String.format("Title: %s\tDuration: %s\tGenre: %s\tRelease date: %s\tSinger: %s", title, duration, genre, releaseDate, singer);
+        return String.format("Title: %s\tDuration: %s\tGenre: %s\tRelease date: %s\tMusic.Music.Singer: %s", title, duration, genre, releaseDate, singer);
     }
 
     public boolean equals(Music o) {

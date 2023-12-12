@@ -1,3 +1,8 @@
+package Cards_Game;
+
+import Cards_Game.Cards;
+import Cards_Game.Deck;
+
 public class Game {
 
     Cards Player1[] = new Cards[13];

@@ -1,3 +1,5 @@
+package Music;
+
 public class Main {
     public static void main(String[] args) {
         Music m1 = new Music("Blank Space", "3:40", "Pop", new Dates(20,11,2019),new Singer("Taylor Swift","female", "American", new Dates(12,3,2007)));

@@ -1,3 +1,5 @@
+package Cards_Game;
+
 public class Cards {
     final String suit;
     final String  rank;

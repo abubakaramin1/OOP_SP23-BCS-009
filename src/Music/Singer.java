@@ -1,3 +1,5 @@
+package Music;
+
 public class Singer {
     private String name;
     private String gender;
